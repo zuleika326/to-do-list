@@ -62,6 +62,7 @@ form button{
 .content p{
     margin-left: .3rem;
 }
-.task{
+.task i{
     color: red;
+    cursor: pointer;
 }
